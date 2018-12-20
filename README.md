@@ -1,6 +1,7 @@
 # MyFirstApp
 
 This repo contains the slution to the Pipes exercies for the [Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/).
+The reverse and sort pipes have unit tests that allow to test them against different inputs. See `reverse.pipe.spec.ts` and `sort.pipe.spec.ts` files for details.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
